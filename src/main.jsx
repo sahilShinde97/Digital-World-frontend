@@ -4,7 +4,7 @@ import App from "./App.jsx";
 import { UserContextProvider } from "./context/UserContext.jsx";
 import { CourseContextProvider } from "./context/CourseContext.jsx";
 
-export const server = "https://digital-world-frontend.vercel.app";
+export const server = "https://digital-world-with-vaishnavi.onrender.com";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <StrictMode>
